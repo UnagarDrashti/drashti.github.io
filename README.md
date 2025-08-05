@@ -4,7 +4,7 @@
 <body>
 
 <section class="hero">
-    <img src="assets/profile.jpg" alt="Drashti" class="avatar" />
+    <img src="https://avatars.githubusercontent.com/u/150331503?v=4" alt="Drashti" class="avatar" />
     <h1>Hi, I'm <span class="highlight">Drashti</span></h1>
     <p class="tagline">Laravel & Node.js Developer | Problem Solver | Tech Enthusiast</p>
     <a href="resume.pdf" class="btn" download>📄 Download Resume</a>
