@@ -72,7 +72,7 @@
 
 <section class="section contact">
     <h2>📬 Contact Me</h2>
-    <p>Email: <a href="mailto:drashtiunagar1902@gmail.com">yourname@example.com</a></p>
+    <p>Email: <a href="mailto:drashtiunagar1902@gmail.com">drashtiunagar1902@gmail.com</a></p>
     <p>GitHub: <a href="https://github.com/UnagarDrashti" target="_blank">@UnagarDrashti</a></p>
 </section>
 
